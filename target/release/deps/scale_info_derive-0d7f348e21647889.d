@@ -1,0 +1,8 @@
+/Users/dev/Documents/project/sigma/cybornft_dll/target/release/deps/libscale_info_derive-0d7f348e21647889.dylib: /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/lib.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/attr.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/trait_bounds.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/utils.rs
+
+/Users/dev/Documents/project/sigma/cybornft_dll/target/release/deps/scale_info_derive-0d7f348e21647889.d: /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/lib.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/attr.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/trait_bounds.rs /Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/utils.rs
+
+/Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/lib.rs:
+/Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/attr.rs:
+/Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/trait_bounds.rs:
+/Users/dev/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/scale-info-derive-2.11.3/src/utils.rs:
